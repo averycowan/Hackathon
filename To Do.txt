@@ -1,0 +1,12 @@
+To Do:
+
+Evan:
+Please make a js for the player GameObject that makes move with keyboard controls: e.g. WASD
+
+Rachel:
+Please try to find or make graphics for the player, walls, floor, coins, ect.
+
+
+
+
+Thanks!
